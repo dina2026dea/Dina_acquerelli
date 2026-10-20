@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 150" role="img" aria-labelledby="title desc">
+<title id="title">Dina Acquerelli</title><desc id="desc">Dina Acquerelli, ritratti personalizzati</desc>
+<rect width="560" height="150" fill="none"/>
+<g fill="#694653">
+<text x="16" y="83" font-family="Georgia, 'Times New Roman', serif" font-size="70" font-style="italic" letter-spacing="-3">Dina</text>
+<text x="155" y="83" font-family="Georgia, 'Times New Roman', serif" font-size="66" font-style="italic" letter-spacing="-3">Acquerelli</text>
+</g>
+<path d="M18 101 C115 111 242 106 348 100 S470 94 528 101" fill="none" stroke="#B7838F" stroke-width="1.8" stroke-linecap="round"/>
+<g transform="translate(455 6)" fill="none" stroke="#B7838F" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+<path d="M16 35 C7 24 0 17 3 9 C7 0 17 5 19 13 C22 4 33 1 37 9 C41 18 30 28 19 38"/>
+<path d="M7 43 Q20 48 33 42"/>
+</g>
+<text x="20" y="135" font-family="Georgia, 'Times New Roman', serif" font-size="17" letter-spacing="5" fill="#806D72">R I T R A T T I   P E R S O N A L I Z Z A T I</text>
+</svg>
